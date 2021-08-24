@@ -1,6 +1,4 @@
-!  CIS 3150 DE - Assignment 1
 !  Author: Siri Chandana Kathroju
-!  Student ID: 1002780
 !  Date: 2/8/2021
 !  Program: Fortran subroutine, danger() calculates the National Fire Danger Rating Index
 !           Converted from Fortran 77 to Fortran 95
